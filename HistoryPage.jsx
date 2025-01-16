@@ -1,0 +1,8 @@
+import React from "react";
+
+const HistoryPage=()=>{
+
+    return(
+        <h1>History Page</h1>
+    )
+}
